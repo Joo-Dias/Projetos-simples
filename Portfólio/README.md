@@ -1,1 +1,1 @@
-## 💼 Portfólio feito com ajuda do Bedimcode 
+## 💼 Portfólio feito com a vídeo aula do canal Bedimcode 
