@@ -6,4 +6,4 @@ Site sobre um portfólio, feito com HTML, CSS e JavaScript. Totalmente Responsiv
 
 ## Bedimcode
 Link para a vídeo aula: 
-<a href="https://www.youtube.com/watch?v=27JtRAI3QO8&t=1s" target="_blank">Link</a>
+<a href="https://www.youtube.com/watch?v=27JtRAI3QO8&t=1s">Link</a>
